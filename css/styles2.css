@@ -1,0 +1,50 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+.footer {
+  background-color: #ffffff;
+  margin: 0px auto;
+  padding: 20px 0px;   
+}
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #ffffff;
+  color: #000000; }
+
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; 
+  background-color: #ffffff;
+}
+
+.navbar-light {
+  background-color: #ffffff; }
+
+
+
+#index-body {
+  padding-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+h5 {
+	color: white;
+}
+
